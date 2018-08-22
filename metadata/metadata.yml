@@ -1,0 +1,29 @@
+metadata_version: 1
+name: Interactive demonstration of plateau-generating mechanisms in temporal order
+  judgments (TOJs)
+description: This capsule provides an interactive demonstration of plateau-generating
+  mechanisms in temporal order judgments (TOJs) to accompany our publication &#34;Stuck
+  on a Plateau? A Model-Based Approach to Fundamental Issues in Visual Temporal-Order
+  Judgments&#34;. The TVA-reset model assumes a processing reset when the second stimulus
+  is presented in brief succession after the first stimulus (assumed to equal TVA&#39;s
+  t0 parameter). The alternative range of indecision model was proposed by García-Pérez
+  &amp; Alcalá-Quintana.
+tags:
+- tva
+- toj
+- temporal-order-judgments
+- theory-of-visual-attention
+associated_publication:
+  doi: 10.3390/vision2030029
+  name: Stuck on a Plateau? A Model-Based Approach to Fundamental Issues in Visual
+    Temporal-Order Judgments
+  published: "2018-06-03"
+  journal/conference: Vision
+authors:
+- name: Jan Tünnermann
+  affiliations:
+  - name: Paderborn University
+corresponding_contributor:
+  name: Jan Tünnermann
+  email: jeti@mail.upb.de
+doi: 10.24433/CO.b132a6d4-df50-4d2d-a2c8-6b0c3813f964
